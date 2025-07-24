@@ -44,7 +44,7 @@ This is a simple **Weather App** built with **HTML**, **CSS**, and **JavaScript*
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/mzapata-tech/weather-app.git
    cd weather-app
    ```
 
